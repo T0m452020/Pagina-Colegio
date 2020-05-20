@@ -1,0 +1,34 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	background-color: green;
+	margin: auto;
+}
+h1{
+	background-color: red;
+	text-align: center;	 
+	text-shadow: 2px 1px 5px
+}
+h2{
+	background-color: red;
+	text-align: center;
+}
+p{
+	background-color: green;
+}
+h1,p{
+	font-family: 'Pangolin', cursive;
+}
+.caja{
+	width: 950px;
+	height: 500px;
+	margin: 20px;
+	float:left;
+}
+.contenedor{
+	width: 900px;
+	height:900px;
+}
+div{
+	background-color: red;
+}
